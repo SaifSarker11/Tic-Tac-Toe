@@ -126,4 +126,4 @@ This project is open-source and available under the MIT License. See the LICENSE
 
 ## Author
 
-Developed by [Your Name or Anonymous]. For questions or feedback, please open an issue in the repository.
+Developed by Md. Saif-Al Sarker. For questions or feedback, please open an issue in the repository.
